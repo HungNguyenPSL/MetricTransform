@@ -1,6 +1,6 @@
 # Metric Transformation for One-Step Retrosynthesis
 
-This project implements the **metric transformation technique** discussed in the paper *Application of Metric Transformation in One-Step Retrosynthesis*. The aim of this work is to investigate the application of **metric learning** and **subclass mapping** to address the challenges in one-step retrosynthesis.
+This project implements the **metric transformation technique** discussed in the paper **Application of Metric Transformation in One-Step Retrosynthesis**. The aim of this work is to investigate the application of **metric learning** and **subclass mapping** to address the challenges in one-step retrosynthesis.
 
 ## Prerequisites
 
