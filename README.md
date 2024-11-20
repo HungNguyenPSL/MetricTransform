@@ -1,6 +1,6 @@
-# Metric Transformation for One-Step Retrosynthesis
+# Addressing Imbalanced Retrosynthesis Datasets with Metric Transformation and Subclass Mapping
 
-This project implements the **metric transformation technique** discussed in the paper **Application of Metric Transformation in One-Step Retrosynthesis**. The aim of this work is to investigate the application of **metric learning** and **subclass mapping** to address the challenges in one-step retrosynthesis, particularly the highly imbalanced distribution of reaction templates in the reaction dataset.
+This project implements the **metric transformation and subclass mapping technique** discussed in the paper **Addressing Imbalanced Retrosynthesis Datasets with Metric Transformation and Subclass Mapping**. The aim of this work is to investigate the application of **metric learning** and **subclass mapping** to address the challenges in one-step retrosynthesis, particularly the highly imbalanced distribution of reaction templates in the reaction dataset.
 
 ## Prerequisites
 
